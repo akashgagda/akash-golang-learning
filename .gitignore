@@ -1,0 +1,10 @@
+# Build output
+/akash-golang-learning
+*.exe
+*.test
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
