@@ -1,4 +1,4 @@
-# Course-repo CI — see ~/gobootcamp/infra/templates/go-ci.yml for the source copy.
+# Course-repo CI — see ~/crew/workspaces/gobootcamp/infra/templates/go-ci.yml for the source copy.
 name: ci
 
 on:
